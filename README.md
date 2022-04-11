@@ -57,7 +57,7 @@ and <a href="https://github.com/pyrogram/pyrogram">Pyrogram</a>
 - [𝙆𝘼𝘼𝙇](https://github.com/AnonymousBoy1025): Developer
 
 ### Support 🎑
-<a href="https://t.me/kaal_network"><img src="https://img.shields.io/badge/-HEAVEN_KING-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/kaal_network"><img src="https://img.shields.io/badge/-HEAVEN_KING-Red.svg?style=for-the-badge&logo=Telegram"></a>
 
 ------------------------------------------------
 -------------------------------------------------
